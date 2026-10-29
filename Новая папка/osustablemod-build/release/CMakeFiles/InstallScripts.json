@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/\u0435\u0449\u043b\u0433/Desktop/osustablemod-build/release/cmake_install.cmake",
+		"C:/Users/\u0435\u0449\u043b\u0433/Desktop/osustablemod-build/release/module/cmake_install.cmake",
+		"C:/Users/\u0435\u0449\u043b\u0433/Desktop/osustablemod-build/release/injector/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
