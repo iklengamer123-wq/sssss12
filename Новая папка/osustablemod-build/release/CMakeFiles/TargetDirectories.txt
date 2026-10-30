@@ -1,9 +1,0 @@
-C:/Users/ещлг/Desktop/osustablemod-build/release/CMakeFiles/edit_cache.dir
-C:/Users/ещлг/Desktop/osustablemod-build/release/CMakeFiles/rebuild_cache.dir
-C:/Users/ещлг/Desktop/osustablemod-build/release/module/CMakeFiles/hook.dir
-C:/Users/ещлг/Desktop/osustablemod-build/release/module/CMakeFiles/hook_pch.dir
-C:/Users/ещлг/Desktop/osustablemod-build/release/module/CMakeFiles/edit_cache.dir
-C:/Users/ещлг/Desktop/osustablemod-build/release/module/CMakeFiles/rebuild_cache.dir
-C:/Users/ещлг/Desktop/osustablemod-build/release/injector/CMakeFiles/injector.dir
-C:/Users/ещлг/Desktop/osustablemod-build/release/injector/CMakeFiles/edit_cache.dir
-C:/Users/ещлг/Desktop/osustablemod-build/release/injector/CMakeFiles/rebuild_cache.dir
